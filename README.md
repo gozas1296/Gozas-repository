@@ -2,9 +2,9 @@
 
 # OmniUnzip
 
-### 一款为 Windows 打造的轻量级桌面词典
+### 一款专注于解压的Windows工具：通入压缩包即可预览内容并解压，支持40+种格式、加密包、分卷包与双层封装，所有处理都在本机完成。
 
-让查词更简单、高效。
+整合压缩功能
 
 <p>
   <img src="https://img.shields.io/badge/Platform-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Platform: Windows">
@@ -28,7 +28,7 @@
 
 | 功能 | 说明 |
 | --- | --- |
-| **解压** | 支持40+格式，全部在本地完成解压 |
+| **解压** | 支持40+种格式，全部在本地完成解压 |
 | **压缩** | 支持压缩文件为ZIP、RAR、7Z格式，全部在本地完成压缩 |
 | **快速操作** | 支持把压缩文件拖到快捷方式进行解压缩 |
 | **设置系统** | 性能设置与个性化选项 |
